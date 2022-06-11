@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-//made
+//made in china
 //
 Route::get('/',[mainController::class, 'index']);
 Route::get('/about',[mainController::class, 'about']);
