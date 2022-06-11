@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 //made
-//
+//comment by another person
 Route::get('/',[mainController::class, 'index']);
 Route::get('/about',[mainController::class, 'about']);
 Route::get('/contact',[mainController::class, 'contact']);
